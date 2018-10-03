@@ -12,7 +12,17 @@ http://www.sprynthesis.com/page2
 
 ???
 
-Turns out state is really really hard to get right. Every time you need to restart your computer or an app is probably because state went bad. You fix it by blowing away the old state and starting fresh. In fact state is so hard we had to build debuggers: that’s right, people had to build programs to help other programmers figure out the state in their programs.
+Turns out state is really really hard to get right. Every time you need to restart your computer or an app is probably because state went bad. You fix it by blowing away the old state and starting fresh.
+
+---
+
+class: center, middle, inverse
+
+<img src="https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif" class="full-width" alt="State is hard!" />
+
+???
+
+In fact state is so hard we had to build debuggers: that’s right, people had to build programs to help other programmers figure out the state in their programs.
 
 ---
 
