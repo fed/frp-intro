@@ -60,14 +60,14 @@ class: center, middle, inverse
 
 # Annotated Source
 
-https://github.com/fknussel/bacon-dnd
+https://github.com/fed/bacon-dnd
 
 ---
 
 class: center, middle, inverse, hero, contact-details
 
-## .secondary[Slides:] https://talks.fknussel.com/frp-intro
+## .secondary[Slides:] https://talks.fedknu.com/frp-intro
 
-## .secondary[Email:] fknussel@gmail.com
+## .secondary[Email:] fed@duck.com
 
-## .secondary[Twitter/GitHub:] @fknussel
+## .secondary[GitHub:] @fed
